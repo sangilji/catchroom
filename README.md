@@ -26,4 +26,37 @@
 
 ---
 
-부가적인 진행 상황 적을 곳
+## 프로젝트 기간
+
+22.07~22.08
+
+## 팀원 소개
+
+지상일 : 인증, 검색 API 구현, 배포 관리,  API관리
+
+이의현 : 전체 프레임 및 UI 구성
+
+이정호 : 요구사항 정리, 데이터 수집 및 적용
+
+
+## 구현 화면
+
+1. 기본화면
+
+![image](https://user-images.githubusercontent.com/88275989/225479481-978a1ca8-f3d9-4cac-872f-30fe7faf813e.png)
+
+2. 인증 화면
+
+![image](https://user-images.githubusercontent.com/88275989/225480709-f1ad0f83-1d0b-43c0-a56b-c151bedc50de.png)
+
+3. 검색 화면
+
+![image](https://user-images.githubusercontent.com/88275989/225480786-aef8a829-afc0-43f8-88e3-6cdaaa7890b8.png)
+
+4. 상세정보 및 찜목록 화면
+
+![image](https://user-images.githubusercontent.com/88275989/225481071-861403e8-06b4-4f5b-a43b-d19041030f69.png)
+![image](https://user-images.githubusercontent.com/88275989/225481112-d258e7d3-ad8e-4a6e-9bc6-ab47dae8756d.png)
+
+
+
